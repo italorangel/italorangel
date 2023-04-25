@@ -22,7 +22,7 @@
 
 ## Olá! Eu sou Italo Rangel  👋
 
-Tenho 17 anos, moro em Pindaí e sou estudante programação! Sou Aluno IF baiano, e quanto mais eu aprendo mais eu passo raiva kkkkkkk, torcedor do Grêmio 💙🤍🖤
+Tenho 17 anos, moro em Pindaí e sou estudante de programação! Sou Aluno do IF baiano, e quanto mais eu aprendo mais eu passo raiva kkkkkkk, torcedor do Grêmio 💙🤍🖤
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
